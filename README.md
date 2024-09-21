@@ -1,5 +1,3 @@
-
-
 # Web Scraper Tool
 
 This is a Python-based Web Scraper that fetches product data from provided URLs. It extracts important information like product names, prices, and links, then saves it into an Excel file for easy access.
