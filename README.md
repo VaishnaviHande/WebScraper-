@@ -1,7 +1,4 @@
-# WebScraper
-Here's a simple README file for your WebScraper project:
 
----
 
 # Web Scraper Tool
 
