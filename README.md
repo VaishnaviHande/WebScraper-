@@ -47,6 +47,5 @@ pip install requests beautifulsoup4 openpyxl
 ## Contribution
 Feel free to fork this project and improve it. Contributions are welcome!
 
----
 
-You can customize the file as needed.
+
